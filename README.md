@@ -1,2 +1,8 @@
 # ReignsProject
 Reigns rebuilt for class purpose
+
+GREETINGS FELLOW HUMANS !
+
+I AM CURRENTLY FOLLOWING THIS TUTORIAL ON HOW TO USE GITHUB.
+
+HA ! HA ! HA !
