@@ -1,8 +1,4 @@
 # ReignsProject
 Reigns rebuilt for class purpose
 
-GREETINGS FELLOW HUMANS !
-
-I AM CURRENTLY FOLLOWING THIS TUTORIAL ON HOW TO USE GITHUB.
-
-HA ! HA ! HA !
+Just uploaded an effing awful and dirty first version. Basically what I did yesterday.
